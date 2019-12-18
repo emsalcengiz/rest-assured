@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b4e6b3cb-32a8-453c-9e12-49a835232eb9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1V4eDrRpJa1L9DILS6wuKJH8DAM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Emsal\IdeaProjects\omdb-test\src\main\java" />
+      <recent name="C:\Users\Emsal\IdeaProjects\omdb-test\src\main\java\com" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.All in omdb-test">
+    <configuration name="All in omdb-test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="omdb-test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="omdb-test [] (1)" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="omdb-test []" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" editBeforeRun="true" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_omdb-test" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="19315" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Maven.omdb-test []" />
+      <item itemvalue="Maven.omdb-test [] (1)" />
+      <item itemvalue="JUnit.All in omdb-test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in omdb-test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b4e6b3cb-32a8-453c-9e12-49a835232eb9" name="Default Changelist" comment="" />
+      <created>1576516680099</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576516680099</updated>
+      <workItem from="1576516689474" duration="23750000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="21" key="#Tomcat_Server" timestamp="1576520399253">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="21" key="#Tomcat_Server/0.0.1366.728@0.0.1366.728" timestamp="1576520399253" />
+    <state x="379" y="0" width="622" height="728" key="#Unnamed" timestamp="1576605228565">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="0" width="622" height="728" key="#Unnamed/0.0.1366.728@0.0.1366.728" timestamp="1576605228565" />
+    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576605275547">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1576605275547" />
+    <state width="1323" height="2" key="GridCell.Tab.0.bottom" timestamp="1576654219231">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="2" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1576654219231" />
+    <state width="1323" height="2" key="GridCell.Tab.0.center" timestamp="1576654219231">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="2" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1576654219231" />
+    <state width="1323" height="2" key="GridCell.Tab.0.left" timestamp="1576654219231">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="2" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1576654219231" />
+    <state width="1323" height="2" key="GridCell.Tab.0.right" timestamp="1576654219231">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="2" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1576654219231" />
+    <state width="1323" height="249" key="GridCell.Tab.1.bottom" timestamp="1576606874383">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="249" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1576606874383" />
+    <state width="1323" height="249" key="GridCell.Tab.1.center" timestamp="1576606874383">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="249" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1576606874383" />
+    <state width="1323" height="249" key="GridCell.Tab.1.left" timestamp="1576606874383">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="249" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1576606874383" />
+    <state width="1323" height="249" key="GridCell.Tab.1.right" timestamp="1576606874383">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="249" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1576606874383" />
+    <state x="384" y="186" key="com.intellij.ide.util.TipDialog" timestamp="1576516690017">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="384" y="186" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1576516690017" />
+    <state x="65" y="58" key="new project wizard" timestamp="1576652711513">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="58" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1576652711513" />
+  </component>
+</project>
