@@ -15,13 +15,13 @@ public class OmdbAPIFactory {
     private OmdbAPIFactory() {}
 
 
-    private static retrofit() {
+    private static restassured() {
         return new given().when().get("http://www.omdbapi.com/?apikey=d782c83e&").then().statusCode(200);
     }
 
 
     public static OmdbAPI getOmdbAPI() {
-        Omdb omdb = retrofit().create(Omdb.class);
+        Omdb omdb = restassured().create(Omdb.class);
         return new OmdbAPI(omdb);
     }
 
